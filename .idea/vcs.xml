@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/folio-2019" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gunhit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pokemon-style-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/super-mario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/threejs-character-controls-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/threejs-rapier3d-character-terrain-movement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/threejs-sandbox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zelda" vcs="Git" />
+  </component>
+</project>
